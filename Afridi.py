@@ -1201,7 +1201,7 @@ def pilih_crack():
 		os.system('clear')
 		print logo
 		jjt = raw_input("\033[1;96m[+] \033[1;93mEnter ID\033[1;93m: \033[1;97m")
-		print "\033[1;95m«-----------------\033[1;91mBlackMafia\033[1;95m---------------»"
+		print "\033[1;95m«-----------------\033[1;91mAHKHACKER\033[1;95m---------------»"
 		try:
 			m = requests.get("https://graph.facebook.com/"+jjt+"?access_token="+toket)
 			td = json.loads(m.text)
@@ -1374,65 +1374,35 @@ def pilih_crack():
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;92m"+str(len(oks))+"\033[1;95m/\033[1;91m"+str(len(cekpoint))
 	print """
  ░░█▀░░░░░░░░░░░▀▀███████░░░░ 
-
 ░░█▌░░░░░░░░░░░░░░░▀██████░░░ 
-
 ░█▌░░░░░░░░░░░░░░░░███████▌░░ 
-
 ░█░░░░░░░░░░░░░░░░░████████░░ 
-
 ▐▌░░░░░░░░░░░░░░░░░▀██████▌░░ 
-
 ░▌▄███▌░░░░▀████▄░░░░▀████▌░░ 
-
 ▐▀▀▄█▄░▌░░░▄██▄▄▄▀░░░░████▄▄░ 
-
 ▐░▀░░═▐░░░░░░══░░▀░░░░▐▀░▄▀▌▌ 
-
 ▐░░░░░▌░░░░░░░░░░░░░░░▀░▀░░▌▌ 
-
 ▐░░░▄▀░░░▀░▌░░░░░░░░░░░░▌█░▌▌ 
-
 ░▌░░▀▀▄▄▀▀▄▌▌░░░░░░░░░░▐░▀▐▐░ 
-
 ░▌░░▌░▄▄▄▄░░░▌░░░░░░░░▐░░▀▐░░ 
-
 ░█░▐▄██████▄░▐░░░░░░░░█▀▄▄▀░░ 
-
 ░▐░▌▌░░░░░░▀▀▄▐░░░░░░█▌░░░░░░ 
-
 ░░█░░▄▀▀▀▀▄░▄═╝▄░░░▄▀░▌░░░░░░ 
-
 ░░░▌▐░░░░░░▌░▀▀░░▄▀░░▐░░░░░░░ 
-
 ░░░▀▄░░░░░░░░░▄▀▀░░░░█░░░░░░░ 
-
 ░░░▄█▄▄▄▄▄▄▄▀▀░░░░░░░▌▌░░░░░░ 
-
 ░░▄▀▌▀▌░░░░░░░░░░░░░▄▀▀▄░░░░░ 
-
 ▄▀░░▌░▀▄░░░░░░░░░░▄▀░░▌░▀▄░░░ 
-
 ░░░░▌█▄▄▀▄░░░░░░▄▀░░░░▌░░░▌▄▄ 
-
 ░░░▄▐██████▄▄░▄▀░░▄▄▄▄▌░░░░▄░ 
-
 ░░▄▌████████▄▄▄███████▌░░░░░▄ 
-
 ░▄▀░██████████████████▌▀▄░░░░ 
-
 ▀░░░█████▀▀░░░▀███████░░░▀▄░░ 
-
 ░░░░▐█▀░░░▐░░░░░▀████▌░░░░▀▄░ 
-
 ░░░░░░▌░░░▐░░░░▐░░▀▀█░░░░░░░▀ 
-
 ░░░░░░▐░░░░▌░░░▐░░░░░▌░░░░░░░ 
-
 ░╔╗║░╔═╗░═╦═░░░░░╔╗░░╔═╗░╦═╗░ 
-
 ░║║║░║░║░░║░░░░░░╠╩╗░╠═╣░║░║░ 
-
 ░║╚╝░╚═╝░░║░░░░░░╚═╝░║░║░╩═╝░  
  
  Don't Worry Your Error ID Will Be Open After 4 Days 
@@ -1622,7 +1592,7 @@ def pilih_hack():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mAHKHACKER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ •◈•"
-	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:Afridi
+	print "  \033[1;91m«---•◈•---Developed By IJAZ-AFRIDI--•◈•---»" #Dev:Afridi
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 Afridi.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
@@ -1915,7 +1885,7 @@ def pilih_mafia():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:love_hacker
+			pass #Dev:Afridi
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
@@ -2427,7 +2397,7 @@ def pilih_super():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mAHKHACKER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•---Developed By IJAZ-AFRIDI--•◈•---»" #Dev:Afridi
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 Afridi.py) Next login facebook Start Cloning\033[1;97m....'
@@ -2435,27 +2405,16 @@ def pilih_super():
 	print """
              
 ┈▕▔▔╲╱▔▔▔╲╱▔▔▏
-
 ┈┈╲＿╱╰╮┈╭╯╲＿╱
-
 ┈┈┈┈▏▉╮┈╭▉▕
-
 ┈┈┈╱╲╰╰┊╯╯╱╲
-
 ┈┈╱╰▕╰╰┳╯╯▏╯╲
-
 ┈▕╰╰╰╲╰┻╯╱╯╯╯▏
-
 ┈▕╰╰╰╰▔▔▔╯╯╯╯▏
-
 ┈▕╰╰╰╰╰╮╭╯╯╯╯▏
-
 ┈┈╲╭╮┈╰╮╭╯╭╮╱
-
 ┈┈┈┫┣╭━━━╮┫┃
-
 ┈┈┈┃┃┃┈┈┈┃┃┃
-
 ┈┈┈┗┛┛┈┈┈┗┗┛ 
 　　　 
 Don't Worry Your Error ID Will Be Open After 4 Days 
